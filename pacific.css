@@ -6,6 +6,8 @@ body {
 
 
 
+
+
 header {
     background-color: #000033;
     color: #FFFFFF;
@@ -37,6 +39,20 @@ ul {
 
 footer {
     font-size: 75%;s
+}
+
+
+label{
+    display:block;
+}
+
+input, textarea{
+    display: block;
+    margin-bottom: 20px;
+}
+
+.text{
+
 }
 
 h2 {
